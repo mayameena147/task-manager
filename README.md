@@ -5,7 +5,6 @@
 1. Clone the repository:
    
    git clone https://github.com/mayameena147/task-manager
-   npm install
   
 
 ## Usage
